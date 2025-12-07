@@ -1,4 +1,4 @@
-**Overview**
+**Overview:**
       This project integrates Power BI with Generative AI (Python LLMs) to create a secure, intelligent legal analytics dashboard. It models case durations and outcomes using DAX, enhances insights with AI visuals and Smart Narratives, and automates LLM‑based case summaries.
 The dashboard is deployed via Power BI Service with Row‑Level Security (RLS) to ensure stakeholder‑specific access.
 
@@ -31,6 +31,6 @@ The dashboard is deployed via Power BI Service with Row‑Level Security (RLS) t
 - Expansion to multi‑jurisdictional analytics.
 - Embedding interactive dashboards into legal portals.
 
-✅ Conclusion
+**✅ Conclusion:**
 This project demonstrates how Power BI and Generative AI can transform legal analytics by combining data modeling, AI‑driven storytelling, and secure collaboration. It empowers stakeholders with actionable insights, reduces manual effort in case analysis, and sets the foundation for AI‑enabled legal decision support systems.
 
